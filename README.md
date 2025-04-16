@@ -2,7 +2,7 @@
 Sample of using tools with WebLLM (Note it works only in browsers with WebGPU support and you must have at last 6Gb of free VRAM).
 Tested on Chrome and Brave on MSWindows and macOS
 
-[Demo App](https://openlinksoftware.github.io/WebLLM-Tools-Sample/src/index.html)
+[Demo App](https://gagriffpatchfanhosting.github.io/WebLLM/src/index.html)
 
 ```js
 const tools = [
